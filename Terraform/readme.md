@@ -7,9 +7,11 @@ This is where to host projects to learn terraform on different cloud platforms
 https://www.youtube.com/watch?v=SLB_c_ayRMo
 
 
-## Useful Medium Articles:
+## My saved Medium articles:
+
+https://medium.com/@jaden09/list/terraform-abd395c835b9
 
 
-## Useful links:
+## Other useful links:
 
 
