@@ -6,7 +6,7 @@ This is where to host projects to learn terraform on different cloud platforms
 
 1. If just comment out the chunks of resource code, terraform will destroy it automatically
 2. The order of code in terraform doesn’t matter
-3. > [!IMPORTANT] Terraform **tfstate** is a very important file and never change it 
+3. [!IMPORTANT] Terraform **tfstate** is a very important file and never change it 
 4. Define variable:
     -If the value is not specified, terraform will ask the user to enter value during terraform apply. Or use command line: terraform apply -var “subnet_prefix=10.0.100.0/24”
     -Best way to assign terraform variables to create a separate file Terraform.tfvars. 
