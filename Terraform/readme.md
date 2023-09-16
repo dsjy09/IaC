@@ -13,7 +13,7 @@ This is where to host projects to learn terraform on different cloud platforms
     -Have different tfvars files instead of default terraform.tfvars. And pass it in the command: terraform apply -var-file (Tfvar file name)
     -can also use list and reference the variable by index
 
-Some basic terraform commands are:
+5. Some basic terraform commands are:
 ```
 Terraform (hit enter) : list all the available commands
 Terraform init : initialize terraform
