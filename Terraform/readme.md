@@ -12,6 +12,9 @@ This is where to host projects to learn terraform on different cloud platforms
     -Best way to assign terraform variables to create a separate file Terraform.tfvars. 
     -Have different tfvars files instead of default terraform.tfvars. And pass it in the command: terraform apply -var-file (Tfvar file name)
     -can also use list and reference the variable by index
+5. The difference between variables.tf and tfvars:
+    -Variables.tf is where you declare your variables
+    -Tfvars is where you assign values to those variables
 
 5. Some basic terraform commands are:
 ```
